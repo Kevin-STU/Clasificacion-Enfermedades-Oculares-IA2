@@ -23,7 +23,7 @@ GaussianNB, DecisionTree, RandomForest, SVM (Poly, sigmoid, rbf) y red neuronal 
 https://colab.research.google.com/drive/1Lq67ASNTii6tPVQuGlATg08n1qCDVvMg?usp=sharing
 
 ## Enlace del video
-https://youtu.be/OsGjpWbsuaA
+
 
 ## Enlace de las diapositivas
-https://docs.google.com/presentation/d/12uk3mcWkkE1C_rq444p9meLV0wJsxqvp/edit?usp=sharing&ouid=113750339374582185665&rtpof=true&sd=true
+[https://docs.google.com/presentation/d/12uk3mcWkkE1C_rq444p9meLV0wJsxqvp/edit?usp=sharing&ouid=113750339374582185665&rtpof=true&sd=true](https://docs.google.com/presentation/d/18kf-hz5rOYpaQJAWxi0LsMfA95cLhMpU/edit?usp=sharing&ouid=100139864134662243815&rtpof=true&sd=true)
