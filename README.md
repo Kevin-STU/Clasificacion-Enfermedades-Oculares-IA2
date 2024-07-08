@@ -1,5 +1,5 @@
 # Clasificación enfermedades oculares - IA2
-<img src="banner-proyecto.jpg">
+<img src="banner-proyectoIA2.jpg">
 
 ## Autores:
 
