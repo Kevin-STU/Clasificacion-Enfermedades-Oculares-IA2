@@ -17,7 +17,7 @@ El dataset consta de imágenes de glaucoma que utilizamos para balancear el data
 https://www.kaggle.com/datasets/sreeharims/glaucoma-dataset
 
 ## Enlace del código
-https://colab.research.google.com/drive/1Lq67ASNTii6tPVQuGlATg08n1qCDVvMg?usp=sharing
+https://colab.research.google.com/drive/1ts0VaxoDvKf8IoaHFaEablPo8oHRXv85?usp=sharing
 
 ## Enlace del video
 
