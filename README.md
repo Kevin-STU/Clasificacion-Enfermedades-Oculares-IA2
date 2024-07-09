@@ -16,9 +16,6 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 El dataset consta de imágenes de glaucoma que utilizamos para balancear el dataset para el problema de "otras vs glaucoma" (sub-problema)
 https://www.kaggle.com/datasets/sreeharims/glaucoma-dataset
 
-## Modelos
-GaussianNB, DecisionTree, RandomForest, SVM (Poly, sigmoid, rbf) y red neuronal (DNN)
-
 ## Enlace del código
 https://colab.research.google.com/drive/1Lq67ASNTii6tPVQuGlATg08n1qCDVvMg?usp=sharing
 
