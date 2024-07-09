@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/sreeharims/glaucoma-dataset
 https://colab.research.google.com/drive/1ts0VaxoDvKf8IoaHFaEablPo8oHRXv85?usp=sharing
 
 ## Enlace del video
-
+https://youtu.be/7y9QgWMXrmM
 
 ## Enlace de las diapositivas
 [https://docs.google.com/presentation/d/12uk3mcWkkE1C_rq444p9meLV0wJsxqvp/edit?usp=sharing&ouid=113750339374582185665&rtpof=true&sd=true](https://docs.google.com/presentation/d/18kf-hz5rOYpaQJAWxi0LsMfA95cLhMpU/edit?usp=sharing&ouid=100139864134662243815&rtpof=true&sd=true)
