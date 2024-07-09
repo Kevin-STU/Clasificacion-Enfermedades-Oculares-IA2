@@ -3,7 +3,7 @@
 
 ## Autores:
 
-Adel Mauricio Álvarez Amado, Fredy Santiago Galán, Kevin Alexis Prada Morales
+Adel Mauricio Álvarez Amado, Freddy Santiago Galán, Kevin Alexis Prada Morales
 
 ## Objetivo
 Clasificar las enfermedades oculares como; retinopatía diabética, catarata, glaucoma y normal.
